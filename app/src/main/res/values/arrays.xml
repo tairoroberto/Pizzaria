@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="times">
+        <item>Selecione o time</item>
+        <item>@string/palmeiras</item>
+        <item>@string/corinthians</item>
+        <item>@string/sao_paulo</item>
+        <item>@string/santos</item>
+        <item>@string/ibis</item>
+    </string-array>
+
+    <!-- Opções para o Spinner (Combobox) -->
+    <array name="opcoes_pagamentos">
+        <item>@string/txt_cartao</item>
+        <item>@string/txt_vr</item>
+        <item>@string/txt_cheque</item>
+        <item>@string/txt_dinheiro</item>
+    </array>
+</resources>
